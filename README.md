@@ -1,17 +1,24 @@
-# to_do_list
+# To-Do List App
 
-First FLutter Project
+## Project Overview
+This is a simple To-Do app made using Flutter.  
+It allows the user to add and delete tasks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Add a task  
+- Show tasks in a list  
+- Delete a task  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Steps to Run
+1. Open the project in VS Code or Android Studio  
+2. Click the Run button  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Author
+Shubh Goel 
+2402901520299
